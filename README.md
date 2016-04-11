@@ -1,1 +1,1 @@
-# bitmap_transfromer
+# bitmap-transformer
